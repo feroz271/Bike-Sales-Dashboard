@@ -1,4 +1,5 @@
-# BIKE SALES DASHBOARD
+# ![image](https://github.com/feroz271/project-1/assets/162626833/c9d0e1c0-7571-47e4-96fc-11a94be96154)
+BIKE SALES DASHBOARD
 
 
 # PROJECT DISCRIPTION
@@ -38,6 +39,8 @@ We did the following steps:
 We made three pivot tables to summarize the data and find trends in the dataset. We wanted to see how factors like average income per purchase, customer commute, and customer age bracket relate to bike purchases.
 
 Here's a glimpse of what those pivot tables look like in Excel.
+
+
 ![image](https://github.com/feroz271/project-1/assets/162626833/52474aa0-b26c-4558-b665-ef15e488897d)
 
 # DATA VISUALIZATION
@@ -46,7 +49,9 @@ We finished by creating a dashboard. We inserted and adjusted pivot charts based
 To make it even easier to use, we added three "Slicers." These let users filter the data quickly and see specific information they're interested in.
 Here's a preview of what the final dashboard looks like in Excel.
 
+
  ![image](https://github.com/feroz271/project-1/assets/162626833/4788b546-49e6-4bdd-a3fd-9fa3e256574e)
+
 
 # INSIGHT
 
@@ -64,9 +69,9 @@ Here are some insights from the analysis of bike purchasers:
 
  # RECOMMENDATION BASED ON ANALYSIS
 
-The middle age group (ages 31-54) makes the most bike purchases, so the management should concentrate their efforts on targeting this demographic.
+• The middle age group (ages 31-54) makes the most bike purchases, so the management should concentrate their efforts on targeting this demographic.
 
-There's a clear trend: as the distance of commuters increases, their preference for biking decreases. This suggests that the company should prioritize marketing to short-distance commuters.
+• There's a clear trend: as the distance of commuters increases, their preference for biking decreases. This suggests that the company should prioritize marketing to short-distance commuters.
 
 
 # END
