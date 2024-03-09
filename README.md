@@ -6,7 +6,8 @@
 For this project, I analyzed data from a bike company to figure out what influences customers when they're deciding to buy. The end result is a dashboard that shows all the important info about bike sales. With this dashboard, stakeholders can see trends, spot patterns, and use that info to make smart decisions.
  DISCLAIMER : All datasets and reports do not represent any institution comapny or country and is just a dummy dataset to demonstrate Excel capabilities.
 
-Tech Stack Used
+# TECH STACK USED
+
 ![image](https://github.com/feroz271/project-1/assets/162626833/6813e461-21d5-484d-a33c-dcfc7fc4f2f8)
  
 # DATA SOURCING
