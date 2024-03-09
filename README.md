@@ -65,9 +65,6 @@ Here are some insights from the analysis of bike purchasers:
 
 • People with commutes of 0-1 mile were most likely to buy a bike, followed by those with commutes of 2-5 miles. However, those with commutes of 5 miles or more were less likely to make a purchase.
 
-• Homeowners were more likely to purchase bikes compared to renters.
-
-• Professionals made up the largest portion of bike customers.
 
  # RECOMMENDATION BASED ON ANALYSIS
 
