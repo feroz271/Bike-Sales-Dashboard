@@ -50,8 +50,8 @@ We finished by creating a dashboard. We inserted and adjusted pivot charts based
 To make it even easier to use, we added three "Slicers." These let users filter the data quickly and see specific information they're interested in.
 Here's a preview of what the final dashboard looks like in Excel.
 
-
-![image](https://github.com/feroz271/project-1/assets/162626833/5f8c75b8-f61d-44d2-a549-b84c9c100b30)
+ 
+![image](https://github.com/feroz271/project-1/assets/162626833/c3529506-dfa1-4059-b902-0d12e94bc489)
 
  
 
