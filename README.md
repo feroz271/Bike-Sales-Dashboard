@@ -40,7 +40,9 @@ We made three pivot tables to summarize the data and find trends in the dataset.
 Here's a glimpse of what those pivot tables look like in Excel.
 
 
-![image](https://github.com/feroz271/project-1/assets/162626833/52474aa0-b26c-4558-b665-ef15e488897d)
+![image](https://github.com/feroz271/project-1/assets/162626833/226f4fa0-079b-425c-b04b-64f149ad01e9)
+
+ 
 
 # DATA VISUALIZATION
 
@@ -49,8 +51,9 @@ To make it even easier to use, we added three "Slicers." These let users filter 
 Here's a preview of what the final dashboard looks like in Excel.
 
 
- ![image](https://github.com/feroz271/project-1/assets/162626833/4788b546-49e6-4bdd-a3fd-9fa3e256574e)
+![image](https://github.com/feroz271/project-1/assets/162626833/5f8c75b8-f61d-44d2-a549-b84c9c100b30)
 
+ 
 
 # INSIGHT
 
