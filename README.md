@@ -1,5 +1,4 @@
-# ![image](https://github.com/feroz271/project-1/assets/162626833/c9d0e1c0-7571-47e4-96fc-11a94be96154)
-BIKE SALES DASHBOARD
+#  🏍️ BIKE SALES DASHBOARD
 
 
 # PROJECT DISCRIPTION
