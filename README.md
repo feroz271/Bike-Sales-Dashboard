@@ -1,4 +1,5 @@
-# Bike Sales Dashboard
+# BIKE SALES DASHBOARD
+
 
 # PROJECT DISCRIPTION
 
